@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Colab/Jupyter temporary files
+.ipynb_checkpoints/
+audio.wav
+request_audio.wav
+response_audio.mp3
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
