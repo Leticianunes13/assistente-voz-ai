@@ -1,6 +1,6 @@
 # 🎙️ Assistente de Voz & Acessibilidade Inteligente
 
-Este projeto nasceu como parte dos meus estudos de tecnologia, impulsionado pelo **Bootcamp Santander / Bradesco**, com o objetivo de unir inteligência artificial e acessibilidade. 
+Este projeto nasceu como parte dos meus estudos de tecnologia, impulsionado pelo **Bootcamp do Bradesco**, com o objetivo de unir inteligência artificial e acessibilidade. 
 
 O sistema processa comandos de voz para gerar respostas inteligentes em tempo real.
 
